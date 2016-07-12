@@ -1,0 +1,8 @@
+FLYING FROGS
+
+LET'S PLAY FLYING FROGS!
+
+How to play:
+- Press SPACE to fly your lilypad
+- Avoid the pipes.
+- If you crash, restart!

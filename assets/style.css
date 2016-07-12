@@ -1,0 +1,45 @@
+h1 {
+    color: green;
+    font-size: 30px;
+font-style: bold;
+font-family: Jokerman;
+text-align: center;
+}
+
+h3{
+    color:darkgreen
+    font-size: 20px;
+  font-style: normal;
+  font-family: Jokerman;
+}
+
+p {
+  font-family: consolas;
+}
+li {
+  font-family: consolas;
+}
+
+.score {
+  color: gray;
+}
+.gold{
+  color:gold;
+}
+
+#gameLink {
+  text-align:center;
+
+}
+
+#tagLine {
+  text-align: center;
+  color: green
+  font-family: consolas;
+  font-size: 20px;
+}
+
+
+.alignC{
+  text-align: center;
+}
