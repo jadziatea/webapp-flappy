@@ -2,7 +2,7 @@ h1 {
     color: green;
     font-size: 30px;
 font-style: bold;
-font-family: Jokerman;
+font-family: consolas;
 text-align: center;
 }
 
@@ -10,7 +10,7 @@ h3{
     color:darkgreen
     font-size: 20px;
   font-style: normal;
-  font-family: Jokerman;
+  font-family: consolas;
 }
 
 p {
